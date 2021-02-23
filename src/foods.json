@@ -1,0 +1,398 @@
+{
+  "places": [
+
+ {
+      "restaurant": "Nausicaa",
+      "place": "menu",
+      "iso": "https://res.cloudinary.com/grountish/image/upload/v1598538045/Logo_Bianca_tjb4tl.png",
+      "sugerenciaDelDiaTitulo": "",
+      "sugerenciaDelDiaBoton": "Cerrar",
+      "sugerenciaDelDiaImg": "",
+      "sugerenciaDelDiaDescripcion":"",
+      "backgroundColor": "#DDCDB9",
+      "overlayColor": "rgba(0,0,0, 0.5)",
+      "borderButton": "3px solid #FFF",
+      "homeInverted": false,
+      "hasUpselling": false,
+      "modalBackgroundColor": "#FFF",
+      "font": "IvyMode",
+      "font2": "IvyMode",
+      "color": "#ffffff",
+      "divisiones": [
+         {
+            "nombre_es": "Bebidas",
+            "nombre": "Bebidas"
+         }
+      ],
+      "categorias": [
+         {
+            "division": "",
+            "categoryAlone": true,
+            "nombre": "Brunch & Merienda",
+            "data": [
+               {
+                  "nombre": "KYOTO",
+                  "descripcion": "Latte con dos medialunas",
+                  "precio": "210",
+                  "tags": " "
+              },
+              {
+                  "nombre": "KōBE",
+                  "descripcion": "Café con leche, tostadas de pan de campo caseras con queso y mermelada/dulce de leche y exprimido de naranja",
+                  "precio": "300",
+                  "tags": " "
+              },
+              {
+                  "nombre": "OSAKA",
+                  "descripcion": "Café con leche, tostado árabe casero y exprimido de naranja",
+                  "precio": "370",
+                  "tags": " "
+              },
+              {
+                  "nombre": "FUJI",
+                  "descripcion": "Café con leche, dos medialunas de jamón y queso y exprimido de naranja",
+                  "precio": "360",
+                  "tags": " "
+              },
+              {
+                  "nombre": "NARA",
+                  "descripcion": "Bowl de yogurt con granola y frutas de estación y exprimido de naranja",
+                  "precio": "300",
+                  "tags": " "
+              },
+              {
+                  "nombre": "OKINAWA",
+                  "descripcion": "Bowl de açai y exprimido de naranja",
+                  "precio": "340",
+                  "tags": " "
+              },
+              {
+                  "nombre": "NAGASAKI",
+                  "descripcion": "Bowl de frutas de estación y exprimido de naranja",
+                  "precio": "280",
+                  "tags": " "
+              },
+              {
+                  "nombre": "KANAZAWA",
+                  "descripcion": "Café con leche, porción de budín y exprimido de naranja",
+                  "precio": "300",
+                  "tags": " "
+              }
+            ]
+         },
+         {
+            "division": "",
+            "nombre": "Cafetería",
+            "categoryAlone": true,
+            "imagen": "https://realfood.tesco.com/media/images/RFO-1400x919-ChickenClubSandwich-0ee77c05-5a77-49ac-a3bd-4d45e3b4dca7-0-1400x919.jpg",
+            "data": [
+               {
+                  "nombre": "Espresso",
+                  "descripcion": " ",
+                  "precio": "100",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Café en jarrito",
+                  "descripcion": " ",
+                  "precio": "120",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Espresso doble",
+                  "descripcion": " ",
+                  "precio": "140",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Latte",
+                  "descripcion": " ",
+                  "precio": "160",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Capuccino",
+                  "descripcion": " ",
+                  "precio": "170",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Capuccino Italiano",
+                  "descripcion": " ",
+                  "precio": "180",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Lágrima",
+                  "descripcion": " ",
+                  "precio": "120",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Lágrima doble ",
+                  "descripcion": " ",
+                  "precio": "160",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Iced coffee con leche",
+                  "descripcion": " ",
+                  "precio": "180",
+                  "tags": " "
+              }
+            ]
+         },
+         {
+            "division": "Bebidas",
+            "nombre": "Bebidas calientes",
+            "categoryAlone": false,
+            "imagen": "",
+            "data": [
+               {
+                  "nombre": "Chocolatada",
+                  "descripcion": " ",
+                  "precio": "150",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Submarino",
+                  "descripcion": " ",
+                  "precio": "170",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Té/mate cocido",
+                  "descripcion": " ",
+                  "precio": "120",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Adicional leche",
+                  "descripcion": " ",
+                  "precio": "20",
+                  "tags": " "
+              }
+            ]
+         },
+         {
+            "division": "Bebidas",
+            "nombre": "Bebidas frías",
+            "categoryAlone": false,
+            "imagen": "",
+            "data": [
+               {
+                  "nombre": "Exprimido naranja/pomelo",
+                  "descripcion": " ",
+                  "precio": "200",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Jarra de limonada con menta y jengibre",
+                  "descripcion": " ",
+                  "precio": "300",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Limonada con menta y jengibre 500 cc",
+                  "descripcion": " ",
+                  "precio": "180",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Smoothie (batido de frutas con hielo)",
+                  "descripcion": " ",
+                  "precio": "260",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Milkshake",
+                  "descripcion": " ",
+                  "precio": "260",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Licuado",
+                  "descripcion": " ",
+                  "precio": "240",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Batido de coco",
+                  "descripcion": " ",
+                  "precio": "260",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Iced coffee con leche",
+                  "descripcion": " ",
+                  "precio": "180",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Agua/agua gasificada",
+                  "descripcion": " ",
+                  "precio": "120",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Agua saborizada",
+                  "descripcion": " ",
+                  "precio": "120",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Gaseosa · línea Coca-Cola",
+                  "descripcion": " ",
+                  "precio": "120",
+                  "tags": " "
+              }
+            ]
+         },
+         
+         {
+            "division": "",
+            "nombre": "Pastelería",
+            "categoryAlone": true,
+            "imagen": "https://entrenosotros.consum.es/public/Image/2019/6/Tapas-CONSUM---Grande.png.jpg",
+            "data": [
+               {
+                  "nombre": "Carrot cake vegana",
+                  "descripcion": " ",
+                  "precio": "300",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Torta Moka",
+                  "descripcion": " ",
+                  "precio": "220",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Tres estaciones",
+                  "descripcion": " ",
+                  "precio": "220",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Chocotorta",
+                  "descripcion": " ",
+                  "precio": "220",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Red Velvet",
+                  "descripcion": " ",
+                  "precio": "300",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Key lime pie",
+                  "descripcion": " ",
+                  "precio": "250",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Tiramisú",
+                  "descripcion": " ",
+                  "precio": "220",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Lemon pie",
+                  "descripcion": " ",
+                  "precio": "220",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Croissant",
+                  "descripcion": " ",
+                  "precio": "110",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Medialuna",
+                  "descripcion": " ",
+                  "precio": "50",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Medialuna con jamón y queso",
+                  "descripcion": " ",
+                  "precio": "90",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Brownie",
+                  "descripcion": " ",
+                  "precio": "180",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Porción de budín",
+                  "descripcion": " ",
+                  "precio": "120",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Alfajor de coco con dulce de leche",
+                  "descripcion": " ",
+                  "precio": "80",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Alfajor de chocolate",
+                  "descripcion": " ",
+                  "precio": "70",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Alfajor de chocolate sin tacc",
+                  "descripcion": " ",
+                  "precio": "90",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Porción de tostadas",
+                  "descripcion": " ",
+                  "precio": "160",
+                  "tags": " "
+              }
+            ]
+         },
+         
+         {
+            "division": "",
+            "nombre": "Sandwiches",
+            "categoryAlone": true,
+            "imagen": "",
+            "data": [
+               {
+                  "nombre": "Tostado árabe con jamón y queso",
+                  "descripcion": " ",
+                  "precio": "200",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Tostado árabe con queso",
+                  "descripcion": " ",
+                  "precio": "200",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Tostado árabe con tomate",
+                  "descripcion": " ",
+                  "precio": "220",
+                  "tags": " "
+              },
+              {
+                  "nombre": "Tostado de miga con jamón y queso",
+                  "descripcion": " ",
+                  "precio": "250",
+                  "tags": " "
+              }
+            ]
+         }
+      ]
+   }
+  ]
+}
