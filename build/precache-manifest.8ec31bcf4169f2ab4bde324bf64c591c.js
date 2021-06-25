@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dd20dec4b40c4e9d4b35b4bf822df8b",
+    "revision": "d05d6f7b6d5e4c77d8d8bd225ddb9819",
     "url": "/index.html"
   },
   {
-    "revision": "b82b17171533cfe32722",
-    "url": "/static/css/3.ab5fc817.chunk.css"
+    "revision": "2f1dfda9614490d0fab5",
+    "url": "/static/css/3.89b062bd.chunk.css"
   },
   {
-    "revision": "dc8119d3ac244e8827f2",
+    "revision": "f509755958f58c7a9699",
     "url": "/static/css/main.6f753487.chunk.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.7499d559.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b82b17171533cfe32722",
-    "url": "/static/js/3.aa57edbf.chunk.js"
+    "revision": "2f1dfda9614490d0fab5",
+    "url": "/static/js/3.7d11fed8.chunk.js"
   },
   {
-    "revision": "6f117ae4c19e117e4f05",
-    "url": "/static/js/4.a3150d61.chunk.js"
+    "revision": "c567362c46444883bffd",
+    "url": "/static/js/4.e70abf21.chunk.js"
   },
   {
-    "revision": "dc8119d3ac244e8827f2",
-    "url": "/static/js/main.40dfd736.chunk.js"
+    "revision": "f509755958f58c7a9699",
+    "url": "/static/js/main.e1a50a43.chunk.js"
   },
   {
-    "revision": "85410c291e4d69188936",
-    "url": "/static/js/runtime-main.960fbf1c.js"
+    "revision": "5f21d09142311bc2a08a",
+    "url": "/static/js/runtime-main.6ef07f31.js"
   },
   {
     "revision": "10a8ddc4d6cfe826b7463e1fcf15e603",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Huevo.613a2750.svg"
   },
   {
-    "revision": "1db1239248fa66343d08b0195a445cde",
-    "url": "/static/media/IvyMode-Bold.1db12392.eot"
+    "revision": "c872b0e184339d6fc8ab89dae3e015b0",
+    "url": "/static/media/IvyMode-Bold.c872b0e1.ttf"
   },
   {
     "revision": "5dce37b82716a69009e381607095054d",
@@ -96,15 +96,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Tacc.9218134a.svg"
   },
   {
-    "revision": "829f9a0a4ce949ffee0dc77f84bad96e",
-    "url": "/static/media/home.829f9a0a.svg"
-  },
-  {
     "revision": "12e263b5de2d768cce1fa9519df8cda3",
     "url": "/static/media/ic vegetarianos.12e263b5.svg"
   },
   {
     "revision": "08d31569d987e39d0d189f06f6f5594d",
     "url": "/static/media/ics veganos.08d31569.svg"
+  },
+  {
+    "revision": "45a4427f20cff6083e04e8fe2cdd3a9f",
+    "url": "/static/media/línea Nausicaa.45a4427f.svg"
+  },
+  {
+    "revision": "ce5587d01e3e1af8ae178ba4b69fc656",
+    "url": "/static/media/logo Nausicaa.ce5587d0.png"
   }
 ]);

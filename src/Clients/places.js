@@ -9,7 +9,8 @@ import foods from "../foods.json";
 import Helmet from "react-helmet";
 import "./../App.css";
 import Upselling from "../Components/Upselling";
-import home from './../Assets/home.svg'
+import home from './../Assets/home.png'
+import logo from './../Assets/logo Nausicaa.png'
 
 
 const param = window.location.pathname.slice(1);
@@ -124,7 +125,7 @@ const hasUpselling = () => {
               : null
               }
               
-                <img src={foundPlace.iso} alt="logo" className="isoTipo" />
+                <img src={logo} alt="logo" className="isoTipo" />
               <div className="homeAndSearch">
                 <div className="search-bar" onClick={() => setBuscar(!buscar)}>
                   {buscar ? (

@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.6f753487.chunk.css",
-    "main.js": "/static/js/main.40dfd736.chunk.js",
-    "main.js.map": "/static/js/main.40dfd736.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.960fbf1c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.960fbf1c.js.map",
+    "main.js": "/static/js/main.e1a50a43.chunk.js",
+    "main.js.map": "/static/js/main.e1a50a43.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6ef07f31.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6ef07f31.js.map",
     "static/js/2.7499d559.chunk.js": "/static/js/2.7499d559.chunk.js",
     "static/js/2.7499d559.chunk.js.map": "/static/js/2.7499d559.chunk.js.map",
-    "static/css/3.ab5fc817.chunk.css": "/static/css/3.ab5fc817.chunk.css",
-    "static/js/3.aa57edbf.chunk.js": "/static/js/3.aa57edbf.chunk.js",
-    "static/js/3.aa57edbf.chunk.js.map": "/static/js/3.aa57edbf.chunk.js.map",
-    "static/js/4.a3150d61.chunk.js": "/static/js/4.a3150d61.chunk.js",
-    "static/js/4.a3150d61.chunk.js.map": "/static/js/4.a3150d61.chunk.js.map",
+    "static/css/3.89b062bd.chunk.css": "/static/css/3.89b062bd.chunk.css",
+    "static/js/3.7d11fed8.chunk.js": "/static/js/3.7d11fed8.chunk.js",
+    "static/js/3.7d11fed8.chunk.js.map": "/static/js/3.7d11fed8.chunk.js.map",
+    "static/js/4.e70abf21.chunk.js": "/static/js/4.e70abf21.chunk.js",
+    "static/js/4.e70abf21.chunk.js.map": "/static/js/4.e70abf21.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5b07aa2eac1cb1284cec94c106371cc6.js": "/precache-manifest.5b07aa2eac1cb1284cec94c106371cc6.js",
+    "precache-manifest.8ec31bcf4169f2ab4bde324bf64c591c.js": "/precache-manifest.8ec31bcf4169f2ab4bde324bf64c591c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/3.ab5fc817.chunk.css.map": "/static/css/3.ab5fc817.chunk.css.map",
+    "static/css/3.89b062bd.chunk.css.map": "/static/css/3.89b062bd.chunk.css.map",
     "static/css/main.6f753487.chunk.css.map": "/static/css/main.6f753487.chunk.css.map",
     "static/js/2.7499d559.chunk.js.LICENSE.txt": "/static/js/2.7499d559.chunk.js.LICENSE.txt",
     "static/media/Altramuces.svg": "/static/media/Altramuces.10a8ddc4.svg",
@@ -23,7 +23,7 @@
     "static/media/Cacahuetes.svg": "/static/media/Cacahuetes.1aefb693.svg",
     "static/media/Crustaceos.svg": "/static/media/Crustaceos.8aa5389d.svg",
     "static/media/Huevo.svg": "/static/media/Huevo.613a2750.svg",
-    "static/media/App.css": "/static/media/IvyMode-Bold.1db12392.eot",
+    "static/media/App.css": "/static/media/IvyMode-Bold.c872b0e1.ttf",
     "static/media/Lactosa.svg": "/static/media/Lactosa.5dce37b8.svg",
     "static/media/Moluscos.svg": "/static/media/Moluscos.34ef5201.svg",
     "static/media/Mostaza.svg": "/static/media/Mostaza.699b3c31.svg",
@@ -33,14 +33,15 @@
     "static/media/Sesamo.svg": "/static/media/Sesamo.ec20a82e.svg",
     "static/media/Soja.svg": "/static/media/Soja.e97e5bf4.svg",
     "static/media/Tacc.svg": "/static/media/Tacc.9218134a.svg",
-    "static/media/home.svg": "/static/media/home.829f9a0a.svg",
     "static/media/ic vegetarianos.svg": "/static/media/ic vegetarianos.12e263b5.svg",
-    "static/media/ics veganos.svg": "/static/media/ics veganos.08d31569.svg"
+    "static/media/ics veganos.svg": "/static/media/ics veganos.08d31569.svg",
+    "static/media/línea Nausicaa.svg": "/static/media/línea Nausicaa.45a4427f.svg",
+    "static/media/logo Nausicaa.png": "/static/media/logo Nausicaa.ce5587d0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.960fbf1c.js",
+    "static/js/runtime-main.6ef07f31.js",
     "static/js/2.7499d559.chunk.js",
     "static/css/main.6f753487.chunk.css",
-    "static/js/main.40dfd736.chunk.js"
+    "static/js/main.e1a50a43.chunk.js"
   ]
 }

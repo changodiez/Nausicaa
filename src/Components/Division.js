@@ -22,19 +22,19 @@ const Division = (props) => {
           height: `calc(70vh/${foundPlace.categorias.length})`,
           alignItems: "center",
           display: "flex",
-          borderBottom: foundPlace.borderButton,
         }}
       >
         <h1
           className="headerCategory"
           style={{
-            fontSize: `calc(62vh/${foundPlace.categorias.length}/2.5)`,
+            fontSize: `calc(50vh/${foundPlace.categorias.length}/2.5)`,
             margin: "auto",
             color: foundPlace.color,
-            fontFamily: "Brandon Bold"
+            fontFamily: "IvyMode"
           }}>
           {nameFood()}
         </h1>
+        
       </div>
     );
   }

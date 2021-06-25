@@ -26,7 +26,8 @@ const SearchComponent = () => {
     let filteredFoods = flattened.filter(
       (food) =>
         food.nombre.toLowerCase().includes(searchValue) ||
-        food.descripcion.toLowerCase().includes(searchValue) 
+        food.descripcion.toLowerCase().includes(searchValue) ||
+        food.tags.toLowerCase().includes(searchValue)
        
     );
 
