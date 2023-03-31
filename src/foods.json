@@ -32,49 +32,49 @@
             {
               "nombre": "KYOTO",
               "descripcion": "Latte con dos medialunas",
-              "precio": "640",
+              "precio": "850",
               "tags": " "
             },
             {
               "nombre": "KōBE",
               "descripcion": "Café con leche, tostadas de pan de campo caseras con queso y mermelada/dulce de leche y exprimido de naranja",
-              "precio": "750",
+              "precio": "950",
               "tags": " "
             },
             {
               "nombre": "OSAKA",
               "descripcion": "Café con leche, tostado árabe casero y exprimido de naranja",
-              "precio": "830",
+              "precio": "1.100",
               "tags": " "
             },
             {
               "nombre": "FUJI",
               "descripcion": "Café con leche, dos medialunas de jamón y queso y exprimido de naranja",
-              "precio": "750",
+              "precio": "950",
               "tags": " "
             },
             {
               "nombre": "NARA",
               "descripcion": "Bowl de yogurt con granola y frutas de estación y exprimido de naranja",
-              "precio": "750",
+              "precio": "980",
               "tags": " "
             },
             {
               "nombre": "OKINAWA",
               "descripcion": "Bowl de açai y exprimido de naranja",
-              "precio": "780",
+              "precio": "1090",
               "tags": " "
             },
             {
               "nombre": "NAGASAKI",
               "descripcion": "Bowl de frutas de estación y exprimido de naranja",
-              "precio": "650",
+              "precio": "900",
               "tags": " "
             },
             {
               "nombre": "KANAZAWA",
               "descripcion": "Café con leche, porción de budín y exprimido de naranja",
-              "precio": "700",
+              "precio": "950",
               "tags": " "
             }
           ]
@@ -88,72 +88,78 @@
             {
               "nombre": "Espresso",
               "descripcion": " ",
-              "precio": "350",
+              "precio": "400",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Café en jarrito",
               "descripcion": " ",
-              "precio": "420",
+              "precio": "450",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Espresso doble",
               "descripcion": " ",
-              "precio": "390",
+              "precio": "550",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Latte",
               "descripcion": " ",
-              "precio": "450",
+              "precio": "550",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Latte con leche de almendras",
               "descripcion": " ",
-              "precio": "500",
+              "precio": "700",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Matcha Latte",
               "descripcion": " ",
-              "precio": "480",
+              "precio": "600",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Capuccino",
               "descripcion": " ",
-              "precio": "440",
+              "precio": "580",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Capuccino Italiano",
               "descripcion": " ",
-              "precio": "480",
+              "precio": "620",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Lágrima",
               "descripcion": " ",
-              "precio": "390",
+              "precio": "450",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Lágrima doble ",
               "descripcion": " ",
-              "precio": "450",
+              "precio": "550",
               "tags": "cafes, coffee "
             },
             {
               "nombre": "Iced coffee con leche",
               "descripcion": " ",
-              "precio": "500",
+              "precio": "600",
               "tags": "cafes, coffee "
             }, {
               "nombre": "Adicional caramelo",
               "descripcion": " ",
-              "precio": "100",
+              "precio": "150",
+              "tags": "cafes, coffee "
+            }
+            , {
+              "nombre": "Adicional leche de almendras",
+              "descripcion": " ",
+              "precio": "150",
               "tags": "cafes, coffee "
             }
           ]
@@ -167,31 +173,31 @@
             {
               "nombre": "Chocolatada",
               "descripcion": " ",
-              "precio": "400",
+              "precio": "500",
               "tags": "chocolate "
             },
             {
               "nombre": "Submarino",
               "descripcion": " ",
-              "precio": "420",
+              "precio": "550",
               "tags": "chocolate "
             },
             {
               "nombre": "Té/mate cocido",
               "descripcion": " ",
-              "precio": "350",
+              "precio": "400",
               "tags": " "
             },
             {
               "nombre": "Té en hebras Téntuh",
               "descripcion": " ",
-              "precio": "400",
+              "precio": "550",
               "tags": " "
             }, 
             {
               "nombre": "Adicional leche",
               "descripcion": " ",
-              "precio": "80",
+              "precio": "120",
               "tags": " "
             }
           ]
@@ -205,74 +211,68 @@
             {
               "nombre": "Exprimido naranja",
               "descripcion": " ",
-              "precio": "550",
+              "precio": "700",
               "tags": "jugo, citricos"
             },
             {
               "nombre": "Pomelada/Limonada 500c",
               "descripcion": " ",
-              "precio": "590",
+              "precio": "750",
               "tags": "jugo, citricos"
             },
             {
               "nombre": "Jarra de limonada/Pomelada",
               "descripcion": " ",
-              "precio": "650",
+              "precio": "980",
               "tags": "jugo, citricos"
             },
           
             {
-              "nombre": "Smoothie (batido de frutas con hielo)",
-              "descripcion": " ",
-              "precio": "650",
-              "tags": "frutas"
-            },
-            {
               "nombre": "Milkshake",
               "descripcion": " ",
-              "precio": "650",
+              "precio": "800",
               "tags": " "
             },
             {
               "nombre": "Licuado",
               "descripcion": " ",
-              "precio": "650",
+              "precio": "800",
               "tags": "frutas"
             },
             {
               "nombre": "Frapuccino",
               "descripcion": " ",
-              "precio": "650",
+              "precio": "800",
               "tags": ""
             },
             {
               "nombre": "Batido de coco",
               "descripcion": " ",
-              "precio": "650",
+              "precio": "750",
               "tags": " "
             },
                  {
               "nombre": "Iced tea",
               "descripcion": " ",
-              "precio": "500",
+              "precio": "600",
               "tags": "te"
             },
             {
               "nombre": "Agua/agua gasificada",
               "descripcion": " ",
-              "precio": "340",
+              "precio": "450",
               "tags": " "
             },
             {
               "nombre": "Agua saborizada",
               "descripcion": " ",
-              "precio": "340",
+              "precio": "450",
               "tags": " "
             },
             {
               "nombre": "Gaseosa - línea Coca-Cola",
               "descripcion": " ",
-              "precio": "380",
+              "precio": "480",
               "tags": " "
             }
           ]
@@ -287,109 +287,103 @@
             {
               "nombre": "Roll de canela",
               "descripcion": " ",
-              "precio": "500",
+              "precio": "650",
               "tags": " "
             },
             {
               "nombre": "Macarron",
               "descripcion": " ",
-              "precio": "300",
+              "precio": "350",
               "tags": " "
             },
             {
-              "nombre": "Cookie vainilla/chocolate/naranja",
+              "nombre": "Cookie vainilla/chocolate",
               "descripcion": " ",
-              "precio": "400",
+              "precio": "520",
               "tags": " "
             },
             {
               "nombre": "Porción de budín",
               "descripcion": "Budin de limon",
-              "precio": "440",
+              "precio": "600",
               "tags": " "
             },
                       {
               "nombre": "Medialuna",
               "descripcion": " ",
-              "precio": "150",
+              "precio": "200",
               "tags": " "
             },
             {
               "nombre": "Medialuna con dulce de leche",
               "descripcion": " ",
-              "precio": "180",
+              "precio": "240",
               "tags": " "
             },
            
             {
                 "nombre": "Brownie con merengue",
                 "descripcion": " ",
-                "precio": "700",
+                "precio": "800",
                 "tags": "dulce, chocolate"
               },
               {
                 "nombre": "Brownie",
                 "descripcion": " ",
-                "precio": "500",
+                "precio": "600",
                 "tags": "chocolate, dulce"
               },
               {
                 "nombre": "Brownie vegano",
                 "descripcion": " ",
-                "precio": "600",
+                "precio": "680",
                 "tags": "chocolate, dulce, vegano"
               },
               {
                 "nombre": "Budin de banana y nuez",
                 "descripcion": " ",
-                "precio": "440",
+                "precio": "540",
                 "tags": "dulce"
               },
               {
                 "nombre": "Budin de Manzana y Canela",
                 "descripcion": " ",
-                "precio": "440",
+                "precio": "540",
                 "tags": "dulce"
               },
               {
                 "nombre": "Budin de Chocolate",
                 "descripcion": " ",
-                "precio": "470",
+                "precio": "540",
                 "tags": "dulce, chocolate"
               },
         
             {
               "nombre": "Budín vegano",
               "descripcion": "Budin de zanahoria con nuez",
-              "precio": "470",
+              "precio": "540",
               "tags": "vegano"
             },
           
               {
                 "nombre": "Pack 3 Cookie",
                 "descripcion": "lima limon/jengibre",
-                "precio": "400",
+                "precio": "480",
                 "tags": "dulce, vegano"
               },
             
               {
               "nombre": "Cookie de chips de chocolate",
               "descripcion": " ",
-              "precio": "400",
+              "precio": "520",
               "tags": "chocolate "
             },
             
             {
             "nombre": "Pasta frola",
             "descripcion": " ",
-            "precio": "550",
+            "precio": "700",
             "tags": "membrillo, dulce"
-          },
-          {
-            "nombre": "Budin vainilla con frutos secos",
-            "descripcion": " ",
-            "precio": "500",
-            "tags": "dulce"
           }
           ]
         },
@@ -404,61 +398,61 @@
             {
               "nombre": "Alfajor de coco",
               "descripcion": " ",
-              "precio": "450",
+              "precio": "650",
               "tags": " "
             },
             {
               "nombre": "Alfajor de maicena",
               "descripcion": " ",
-              "precio": "450",
+              "precio": "650",
               "tags": " "
             },
             {
               "nombre": "Alfabrownie",
               "descripcion": " ",
-              "precio": "450",
+              "precio": "650",
               "tags": " "
             },
             {
               "nombre": "Alfajor con harina de almendras",
               "descripcion": " ",
-              "precio": "450",
+              "precio": "650",
               "tags": " "
             },
             {
               "nombre": "Alfajor de mousse de chocolate",
               "descripcion": " ",
-              "precio": "460",
+              "precio": "550",
               "tags": " "
             },
             {
               "nombre": "Alfajor de pistacho",
               "descripcion": " ",
-              "precio": "480",
+              "precio": "600",
               "tags": " "
             },
             {
               "nombre": "Alfajor de avellanas y mani",
               "descripcion": " ",
-              "precio": "460",
+              "precio": "550",
               "tags": " "
             },
             {
               "nombre": "Alfajor de malbec",
               "descripcion": " ",
-              "precio": "460",
+              "precio": "550",
               "tags": " "
             },
             {
               "nombre": "Alfajor de chocotorta/carrot cake/lemon pie",
               "descripcion": " ",
-              "precio": "460",
+              "precio": "600",
               "tags": " "
             },
             {
               "nombre": "Alfajor Marplatense",
               "descripcion": " ",
-              "precio": "460",
+              "precio": "550",
               "tags": "chocolate, dulce"
             }
           
@@ -476,52 +470,45 @@
             {
               "nombre": "Lemon pie/Chocotorta/Cheese cake",
               "descripcion": " ",
-              "precio": "690",
+              "precio": "850",
               "tags": " "
             },
             {
               "nombre": "Torta oreo",
               "descripcion": " ",
-              "precio": "700",
+              "precio": "850",
               "tags": " "
             },
             {
               "nombre": "Torta bruce",
               "descripcion": " ",
-              "precio": "800",
+              "precio": "900",
               "tags": " "
             },
             {
               "nombre": "Carrot cake",
               "descripcion": " ",
-              "precio": "800",
+              "precio": "900",
               "tags": " "
             },
             {
-              "nombre": "Apple crumble",
+              "nombre": "Apple crumble vegano",
               "descripcion": " ",
-              "precio": "700",
-              "tags": " "
+              "precio": "830",
+              "tags": "vegano, dulce"
             },
             {
               "nombre": "Key lime pie",
               "descripcion": " ",
-              "precio": "700",
+              "precio": "850",
               "tags": " "
             },
             {
               "nombre": "Red velvet",
               "descripcion": " ",
-              "precio": "800",
+              "precio": "980",
               "tags": " "
-            },
-                      
-              {
-                "nombre": "Torta vasca",
-                "descripcion": "",
-                "precio": "850",
-                "tags": ""
-              }
+            }
           
           ]
         },
@@ -535,55 +522,62 @@
             {
               "nombre": "Scon de queso",
               "descripcion": " ",
-              "precio": "400",
+              "precio": "500",
               "tags": " "
             },
             {
               "nombre": "Scon relleno de jamon y queso",
               "descripcion": " ",
-              "precio": "450",
+              "precio": "580",
               "tags": " "
             },
             {
               "nombre": "Chipa",
               "descripcion": " ",
-              "precio": "380",
+              "precio": "450",
               "tags": " "
             },
             {
               "nombre": "Chipa relleno de jamon y queso",
               "descripcion": " ",
-              "precio": "450",
+              "precio": "580",
               "tags": " "
             },
             {
               "nombre": "Tostadas con queso y mermelada",
               "descripcion": " ",
-              "precio": "550",
+              "precio": "580",
               "tags": " "
             },
             {
               "nombre": "Medialuna con jamon y queso",
               "descripcion": " ",
-              "precio": "300",
+              "precio": "350",
               "tags": " "
             },
             {
               "nombre": "Tostado árabe de jamon y queso",
               "descripcion": " ",
-              "precio": "620",
+              "precio": "820",
               "tags": " "
             },
             {
               "nombre": "Tostado árabe de jamon y queso con tomate",
               "descripcion": " ",
-              "precio": "680",
+              "precio": "880",
               "tags": " "
             },
             {
               "nombre": "Tostado de miga con jamón y queso",
               "descripcion": " ",
-              "precio": "700",
+              "precio": "980",
+              "tags": " "
+            }
+            ,
+            {
+              "nombre": "Baguel de bondiola y queso",
+              "descripcion": " ",
+              "precio": "800",
               "tags": " "
             }
           ]
