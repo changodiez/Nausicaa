@@ -47,8 +47,7 @@ const FoodBox = ({ lang, nombre, precio }) => {
         </h4>
         <p>{switchLang("descripcion")}</p>
       </div>
-      <h4 className="h4-precio">{precio}</h4>
-    </div>
+      </div>
   );
 };
 
